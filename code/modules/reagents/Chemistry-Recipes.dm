@@ -116,7 +116,7 @@ datum
 			name = "Cyanide"
 			id = "cyanide"
 			result = "cyanide"
-			required_reagents = list("hydrogen" = 3, "carbon" = 3, "nitrogen" = 3, "sodiumchloride" = 1, "ammonia" = 2)
+			required_reagents = list("hydrogen" = 3, "carbon" = 3, "plasma" = 3, "sodiumchloride" = 1, "ammonia" = 2)
 			result_amount = 4
 
 		thermite
